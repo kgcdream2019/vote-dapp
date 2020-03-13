@@ -1,0 +1,34 @@
+   Replacing 'HackbertToken'
+   -------------------------
+   > transaction hash:    0xab7e318b32e2a6bc5bd9ad2b24fd8953e57dd4a1fa6a37c82aeb53418321bc1d
+   > Blocks: 0            Seconds: 0
+   > contract address:    0x856dEA346976526a3f06F780E2F92e57bBfDe013
+   > block number:        79
+   > block timestamp:     1583249814
+   > account:             0x28E5dBAd69dD8723a2f93849665988E0B882A8b7
+   > balance:             99.2802434
+   > gas used:            1442399
+   > gas price:           20 gwei
+   > value sent:          0 ETH
+   > total cost:          0.02884798 ETH
+
+
+   Replacing 'MainContract'
+   ------------------------
+   > transaction hash:    0x3fb1b5cab568295cbdb6afb7ef488bebb9b08b8228dd30b2704261273eb00d07
+   > Blocks: 0            Seconds: 0
+   > contract address:    0xC85629034Da7760254e85d1101eDA7B6f6121424
+   > block number:        80
+   > block timestamp:     1583249815
+   > account:             0x28E5dBAd69dD8723a2f93849665988E0B882A8b7
+   > balance:             99.22296162
+   > gas used:            2864089
+   > gas price:           20 gwei
+   > value sent:          0 ETH
+   > total cost:          0.05728178 ETH
+
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:          0.08612976 ETH

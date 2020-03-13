@@ -1,0 +1,74 @@
+Starting migrations...
+======================
+> Network name:    'kovan'
+> Network id:      42
+> Block gas limit: 0x989680
+
+
+1_initial_migration.js
+======================
+
+   Deploying 'Migrations'
+   ----------------------
+   > transaction hash:    0x78530e664527e41da9c49be75740bda4d6222404fc611565a700db1e88607dce
+   > Blocks: 2            Seconds: 11
+   > contract address:    0xdE86201354d500d7Fef7148Ee12FE6d3436240b4
+   > block number:        17271100
+   > block timestamp:     1583750916
+   > account:             0x9b02670B06c3bFB4991a5fB0b9309215C608a45a
+   > balance:             0.99522812
+   > gas used:            238594
+   > gas price:           20 gwei
+   > value sent:          0 ETH
+   > total cost:          0.00477188 ETH
+
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:          0.00477188 ETH
+
+
+2_deploy_contracts.js
+=====================
+
+   Deploying 'HackbertToken'
+   -------------------------
+   > transaction hash:    0x31af9ec4a7a2dc241b681ff634b8953bc59e28b56ab9bb86fd457470db470968
+   > Blocks: 2            Seconds: 10
+   > contract address:    0xbc1C57aB4EB07Cbbcc7Fa8bF4f5973C45d346950
+   > block number:        17271109
+   > block timestamp:     1583750952
+   > account:             0x9b02670B06c3bFB4991a5fB0b9309215C608a45a
+   > balance:             0.96489358
+   > gas used:            1474379
+   > gas price:           20 gwei
+   > value sent:          0 ETH
+   > total cost:          0.02948758 ETH
+
+
+   Deploying 'MainContract'
+   ------------------------
+   > transaction hash:    0xc5eb24a96845c41f3ef00357450ae4f02bf0ea4c867e4ca3a5403dca3e548545
+   > Blocks: 3            Seconds: 10
+   > contract address:    0xD5Cece3739e173b334f03ac932d582746385E1A3
+   > block number:        17271115
+   > block timestamp:     1583750976
+   > account:             0x9b02670B06c3bFB4991a5fB0b9309215C608a45a
+   > balance:             0.89065642
+   > gas used:            3711858
+   > gas price:           20 gwei
+   > value sent:          0 ETH
+   > total cost:          0.07423716 ETH
+
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:          0.10372474 ETH
+
+
+Summary
+=======
+> Total deployments:   3
+> Final cost:          0.10849662 ETH
